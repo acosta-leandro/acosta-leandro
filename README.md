@@ -54,7 +54,7 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
 <div align="center">
-  https://github-readme-stats-nu-eight-50.vercel.app/api?username=acosta-leandro&show_icons=true&theme=dark
+  <img src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=acosta-leandro&show_icons=true&theme=dark" />
 </div>
 
 <hr/>
