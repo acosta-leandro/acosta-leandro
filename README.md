@@ -1,24 +1,26 @@
 <img src="images/svg/header_en.svg"></img>
 
 
-### :space_invader: &nbsp;About Me
+### :smiley: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for technology and education.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem-solving and make the world better.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Always looking for techs, education and business.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2008, with 10+ years of experience in business wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Macao/China with my lovely wife :two_hearts:, my naughty son :two_hearts:, Pimpa :service_dog:, and Ryca :service_dog: .
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Senior Software Developer at [University of Macau](https://www.um.edu.mo). \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for technology and education.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem-solving and make the world better.\
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Always looking for techs, education and business.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2008, with 10+ years of experience in business wide software development.\
+&nbsp;&nbsp;&nbsp; :family_man_woman_girl_girl: &nbsp;Living in Macao/China with my lovely wife :two_hearts:, my naughty son :two_hearts:, Pimpa :service_dog:, and Ryca :service_dog: .
+
+
 
 <p align="center">
-  <a href="mailto:contact@acostaleandro.com?subject=Hello%20Leandro%20Acosta"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/acosta.dev/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/acostaleandro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:github@acostaleandro.com?subject=Hello%20Leandro%20Acosta"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/leandrosacosta/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
 
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+
 
 ![Vue](https://img.shields.io/badge/Vue-3-green)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
@@ -51,24 +53,14 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 
 
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
+  
 <div align="center">
-  <img src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=acosta-leandro&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=acosta-leandro&theme=dark" alt="GitHub Streak" />
 </div>
+</br>
 
-<hr/>
+<div align="center">
+  <img align="left" vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api/top-langs/?username=acosta-leandro&hide_progress=true&langs_count=6&theme=dark" />
+  <img align="right" vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=acosta-leandro&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs" />
 
-<div>
-<img src="https://streak-stats.demolab.com?user=acosta-leandro&theme=dark" alt="GitHub Streak" />
 </div>
-
-
-
-[//]: # ()
-[//]: # ()
-[//]: # (<p align="right">)
-
-[//]: # (<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>)
-
-[//]: # ([![GitHub Streak]&#40;https://streak-stats.demolab.com?user=acosta-leandro&theme=dark&#41;]&#40;https://git.io/streak-stats&#41;</p>)
